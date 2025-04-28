@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\Ray-Tracing\\RayTracing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA84DE0-23B3-436B-A790-D41B16897010}|RayTracing.csproj|c:\\users\\andrew_baldin\\source\\repos\\andrew-8705\\ray-tracing\\raytracing\\shaders\\shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BCA84DE0-23B3-436B-A790-D41B16897010}|RayTracing.csproj|solutionrelative:shaders\\shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA84DE0-23B3-436B-A790-D41B16897010}|RayTracing.csproj|c:\\users\\andrew_baldin\\source\\repos\\andrew-8705\\ray-tracing\\raytracing\\shaders\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BCA84DE0-23B3-436B-A790-D41B16897010}|RayTracing.csproj|solutionrelative:shaders\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA84DE0-23B3-436B-A790-D41B16897010}|RayTracing.csproj|c:\\users\\andrew_baldin\\source\\repos\\andrew-8705\\ray-tracing\\raytracing\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA84DE0-23B3-436B-A790-D41B16897010}|RayTracing.csproj|solutionrelative:window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA84DE0-23B3-436B-A790-D41B16897010}|RayTracing.csproj|c:\\users\\andrew_baldin\\source\\repos\\andrew-8705\\ray-tracing\\raytracing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA84DE0-23B3-436B-A790-D41B16897010}|RayTracing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shader.frag",
+              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\Ray-Tracing\\RayTracing\\Shaders\\shader.frag",
+              "RelativeDocumentMoniker": "Shaders\\shader.frag",
+              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\Ray-Tracing\\RayTracing\\Shaders\\shader.frag",
+              "RelativeToolTip": "Shaders\\shader.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T19:51:25.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shader.vert",
+              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\Ray-Tracing\\RayTracing\\Shaders\\shader.vert",
+              "RelativeDocumentMoniker": "Shaders\\shader.vert",
+              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\Ray-Tracing\\RayTracing\\Shaders\\shader.vert",
+              "RelativeToolTip": "Shaders\\shader.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T19:51:21.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\Ray-Tracing\\RayTracing\\Window.cs",
+              "RelativeDocumentMoniker": "Window.cs",
+              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\Ray-Tracing\\RayTracing\\Window.cs",
+              "RelativeToolTip": "Window.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAgwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:47:46.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\Ray-Tracing\\RayTracing\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\andrew_baldin\\source\\repos\\Andrew-8705\\Ray-Tracing\\RayTracing\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:33:59.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
